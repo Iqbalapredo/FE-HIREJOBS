@@ -1,0 +1,214 @@
+@media screen and (max-width: 700px) {
+  .CardContent {
+    margin-left: 0px !important;
+  }
+  .cardSave {
+    margin-left: 50px !important;
+  }
+  .edit {
+    margin-top: 550px !important;
+    margin-left: -330px !important;
+  }
+  .tanggal {
+    margin-right: 5px !important;
+  }
+  .input2 {
+    width: 48% !important;
+  }
+}
+
+.header {
+  background-color: #5e50a1;
+  height: 35vh;
+}
+
+.bodyContent {
+  background-color: #e5e5e5;
+  min-height: 350vh;
+}
+
+.CardContent {
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.spa {
+  margin-right: 25px;
+}
+
+.lineSpacing {
+  margin-top: 20px;
+}
+
+.photoUser {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-left: 30%;
+}
+
+.userName {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.userPosition {
+  color: #9ea0a5;
+  margin-left: 10px;
+}
+
+.location {
+  margin-top: -10px;
+  margin-left: 10px;
+}
+
+.imgLocation {
+  margin-top: -10px;
+  margin-left: -4px;
+}
+
+.userLocation {
+  color: #9ea0a5;
+  margin-left: 10px;
+}
+
+.card {
+  margin-top: -200px;
+}
+
+.marginCs {
+  margin-top: 1000px;
+}
+
+.typeWork {
+  color: #9ea0a5;
+  margin-left: 10px;
+}
+
+.description {
+  color: #9ea0a5;
+  margin-left: 10px;
+}
+
+.buttonSave {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #5e50a1;
+  border: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.buttonSavePhoto {
+  width: 60%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid #5e50a1;
+  color: #5e50a1;
+  margin-top: 20px;
+  margin-left: 22%;
+}
+
+.buttonCancel {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #e5e5e5;
+  border: 1px solid #5e50a1;
+  color: #5e50a1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.dataDiri {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+  /* margin-left: 10px; */
+  border-bottom: 1px solid #c4c4c4;
+  padding-bottom: 10px;
+}
+
+.skill {
+  margin-bottom: 20px;
+}
+
+.input1 {
+  color: #9ea0a5;
+}
+
+.input1 {
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #9ea0a5;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+.tanggal {
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #9ea0a5;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+.text {
+  height: 100px;
+  border-radius: 5px;
+  border: 1px solid #9ea0a5;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+.buttonExp {
+  height: 50px;
+  background-color: white;
+  color: #fbb017;
+  border: 1px solid #fbb017;
+  border-radius: 5px;
+}
+
+.marginRadio {
+  margin-bottom: 20px;
+}
+
+.inputRadio {
+  margin-right: 10px;
+  margin-top: 7px;
+  margin-left: 20px;
+}
+
+.inputImg {
+  background-color: #f6f5f4;
+  height: 300px;
+  position: relative;
+  border-radius: 5px;
+  border: 1px solid #8692a6;
+  margin: 0px 0px 20px 0px;
+}
+
+.formLogoImg {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: 30%;
+}
+
+.uploadImg {
+  display: none;
+}
+
+.button5 {
+  height: 50px;
+  background-color: white;
+  color: #fbb017;
+  border: 1px solid #fbb017;
+  border-radius: 5px;
+}

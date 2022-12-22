@@ -1,0 +1,243 @@
+.body {
+  background-color: #e2e5ed !important;
+  height: 100%;
+}
+.bgImage {
+  background-image: linear-gradient(rgba(93, 80, 161, 0.716), rgba(93, 80, 161, 0.724)), url(/regisimg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 95vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custLogo {
+  margin-top: -280px !important;
+}
+.button4 {
+  background-color: #fbb017 !important;
+  color: white !important;
+}
+form div button .a {
+  text-decoration: none;
+  color: white !important;
+}
+form div .adiv {
+  text-decoration: none;
+  color: #9b9898 !important;
+}
+.lineHeight {
+  line-height: 1.5 !important;
+}
+
+.back {
+  margin-left: 3rem !important;
+  margin: 1rem !important;
+}
+
+form div p .ap {
+  text-decoration: none;
+  color: #fbb017 !important;
+}
+
+.button {
+  background-color: #5e50a1 !important;
+  color: white !important;
+}
+.button2 {
+  background-color: white !important;
+  color: #5e50a1 !important;
+  border: 1px solid #5e50a1 !important;
+}
+
+.button:hover {
+  background-color: #9288c2 !important;
+  color: white !important;
+}
+.button2:hover {
+  background-color: #5e50a1 !important;
+  color: white !important;
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.customMainProfile {
+  margin-top: 55px;
+}
+
+.button3 {
+  background-color: #5e50a1 !important;
+  color: white !important;
+  width: 100%;
+}
+
+.backgroundFlower {
+  background-color: #5e50a1 !important;
+  width: 100%;
+  height: 250px;
+  padding-bottom: 30px;
+}
+
+.tambah {
+  background-color: white !important;
+  color: #fbb017 !important;
+  width: 100%;
+  border: 1px solid #fbb017 !important;
+}
+.tambah:hover {
+  background-color: #fbb017 !important;
+  color: white !important;
+}
+
+.hapus {
+  background-color: white !important;
+  color: red !important;
+  width: 100%;
+  border: 1px solid #fbb017 !important;
+}
+.hapus:hover {
+  background-color: red !important;
+  color: white !important;
+}
+
+.data {
+  margin-top: -200px !important;
+}
+.dataDiri {
+  margin-top: -200px !important;
+}
+
+.dataPerusahaan {
+  margin-top: -60px !important;
+}
+
+@media screen and (max-width: 600px) {
+  .dataDiri {
+    margin-top: 0px !important;
+  }
+}
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.body {
+  background-color: #e2e5ed !important;
+  height: 100%;
+}
+.bgImage {
+  background-image: linear-gradient(rgba(93, 80, 161, 0.716), rgba(93, 80, 161, 0.724)), url(/regisimg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 95vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button4 {
+  background-color: #fbb017 !important;
+  color: white !important;
+}
+form div button .a {
+  text-decoration: none;
+  color: white !important;
+}
+form div .adiv {
+  text-decoration: none;
+  color: #9b9898 !important;
+}
+.lineHeight {
+  line-height: 1.5 !important;
+}
+
+.back {
+  margin-left: 3rem !important;
+  margin: 1rem !important;
+}
+
+form div p .ap {
+  text-decoration: none;
+  color: #fbb017 !important;
+}
+
+.button {
+  background-color: #5e50a1 !important;
+  color: white !important;
+}
+.button2 {
+  background-color: white !important;
+  color: #5e50a1 !important;
+  border: 1px solid #5e50a1 !important;
+}
+
+.button:hover {
+  background-color: #9288c2 !important;
+  color: white !important;
+}
+.button2:hover {
+  background-color: #5e50a1 !important;
+  color: white !important;
+}
+
+.bgSection {
+  background-color: #5e50a1 !important;
+  color: white !important;
+  /* border radius */
+  -webkit-border-radius: 30px;
+}
+
+.button3 {
+  background-color: #5e50a1 !important;
+  color: white !important;
+  width: 100%;
+}
+
+.backgroundFlower {
+  background-color: #5e50a1 !important;
+  width: 100%;
+  height: 250px;
+  padding-bottom: 30px;
+}
+
+.tambah {
+  background-color: white !important;
+  color: #fbb017 !important;
+  width: 100%;
+  border: 1px solid #fbb017 !important;
+}
+.tambah:hover {
+  background-color: #fbb017 !important;
+  color: white !important;
+}
+
+.hapus {
+  background-color: white !important;
+  color: red !important;
+  width: 100%;
+  border: 1px solid #fbb017 !important;
+}
+.hapus:hover {
+  background-color: red !important;
+  color: white !important;
+}
+
+.data {
+  margin-top: -200px !important;
+}
+.dataDiri {
+  margin-top: -200px !important;
+}
+
+.dataPerusahaan {
+  margin-top: -60px !important;
+}
+
+@media screen and (max-width: 600px) {
+  .dataDiri {
+    margin-top: 0px !important;
+  }
+}
